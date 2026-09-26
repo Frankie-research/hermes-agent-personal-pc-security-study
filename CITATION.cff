@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite this research report when referring to the case study or its findings."
+authors:
+  - family-names: "Mak"
+    given-names: "Frankie"
+    affiliation: "Independent Researcher and Technology Practitioner, Australia"
+    email: "frankiemak.research@gmail.com"
+title: "Hermes Agent on a Personal Computer: Security, Sandboxing, Automation and Reliability Lessons from a Windows/Docker Practitioner Case Study"
+version: "1.0"
+date-released: "2026-09-24"
+type: report
+abstract: "A de-identified practitioner case study of deploying and hardening an open-source AI agent on a personal Windows computer, examining OS isolation, Docker sandboxing, scheduled automation, Windows path and encoding failures, gateway and messaging exposure, and least-privilege controls."
+license: "CC-BY-4.0"
+keywords:
+  - "agentic AI"
+  - "Hermes Agent"
+  - "Docker sandboxing"
+  - "Windows security"
+  - "automation reliability"
+  - "prompt injection"
+  - "least privilege"
